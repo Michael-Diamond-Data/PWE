@@ -1,0 +1,2 @@
+# PWE
+Python Weekly Exercises
